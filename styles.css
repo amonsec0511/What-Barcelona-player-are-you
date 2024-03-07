@@ -1,0 +1,34 @@
+body {
+    font-family: '', sans-serif;
+    background-color: #dedfe0;
+    text-align: center;
+    color: #003989;
+}
+
+img {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img {
+    width: 400px;
+}
+
+.Pedri {
+    display: none;
+}
+
+.Araujo {
+    display: none;
+}
+
+
+.Lewa {
+    display: none;
+}
+
+.Gavi {
+    display: none;
+}
